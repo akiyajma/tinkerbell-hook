@@ -1,0 +1,14 @@
+bin/
+dbg/
+dist/
+.env
+!/hook-bootkit/
+!/hook-docker/
+!/hook-mdev/
+hook*.*.yaml
+!linuxkit-templates
+out/
+cache/
+*.swp
+.idea
+kernel/Dockerfile.autogen.*
